@@ -34,3 +34,9 @@ body{
     bottom: 0px;
     right: 0px;
 }
+
+#btn{
+    width: 10vw;
+    height: 5vh;
+    font-size: 100px;
+}
