@@ -36,6 +36,9 @@ body{
 }
 
 #btn{
+    position: absolute;
+    top: 0px;
+    left: 1%;
     color: white;
     width: 30%;
     height: 20%;
