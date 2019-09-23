@@ -36,7 +36,8 @@ body{
 }
 
 #btn{
-    width: 10vw;
-    height: 5vh;
+    background-color: white;
+    width: 20vw;
+    height: 10vh;
     font-size: 100px;
 }
