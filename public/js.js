@@ -58,6 +58,7 @@ function change() {
         document.getElementById('back').className = ('back');
         document.getElementById('btn').innerHTML = 'snowball';
         document.getElementById('pic').src = 'mk11_scorpion.png';
+        document.getElementById('btn').style.backgroundColor = 'black';
 
         for(let i = 0; i < n; i++) {
 
@@ -73,6 +74,7 @@ function change() {
         document.getElementById('back').className = ('background');
         document.getElementById('btn').innerHTML = 'fireball';
         document.getElementById('pic').src = 'mk11_subzero.png';
+        document.getElementById('btn').style.backgroundColor = 'black';
 
         for(let i = 0; i < n; i++) {
 
