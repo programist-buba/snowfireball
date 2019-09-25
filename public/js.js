@@ -74,7 +74,7 @@ function change() {
         document.getElementById('back').className = ('background');
         document.getElementById('btn').innerHTML = 'fireball';
         document.getElementById('pic').src = 'mk11_subzero.png';
-        document.getElementById('btn').style.backgroundColor = 'black';
+        document.getElementById('btn').style.backgroundColor = 'skyblue';
 
         for(let i = 0; i < n; i++) {
 
